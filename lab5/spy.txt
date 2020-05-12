@@ -1,0 +1,6 @@
+
+
+Keylogging has begun.
+Tue May 12 11:25:37 2020
+
+[left-cmd][left-cmd][left-cmd][left-cmd][left-cmd]t[left-cmd]ls[return][left-cmd][left-cmd][left-cmd]ctv[return][left-cmd] ds[del]isable[left-cmd][left][left-cmd]sudo[return] [return][left-cmd][left-cmd][left-cmd]w[left-cmd][left-cmd][left-cmd][left-cmd][left-cmd][left-cmd][left-cmd][left-cmd][tab][left-cmd][left-cmd][tab][left-cmd][left-cmd][tab][left-cmd]ls[return]tail -n 10 spy.t[tab][return][left-cmd]1[left-cmd][left-ctrl]c
